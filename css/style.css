@@ -1,0 +1,10 @@
+    .test {
+    margin:100px auto 0 auto;
+    width:200px;
+    height:200px;
+    border-radius: 3px;
+    background-color: #5e5c5c;
+    background-image: linear-gradient(bottom, rgba(0,0,0,.62) 0%, rgba(255,255,255,.62) 100%);
+    background-clip: padding-box;
+    box-shadow: 0 0 62px rgba(210,9,47,.75);
+    }
